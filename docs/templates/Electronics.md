@@ -7,15 +7,18 @@
 
 ## Requirements and electrical components
 
-### Sofware for PCB design, microcontrollers, etc.
+Sofware for PCB design, microcontrollers, etc.
 
-## PCB Modules (block diagram, abstract components)
+## PCB Modules
+ Block diagram, abstract components
 ### Power sourcing
-### Control: Logics circuit (microcontroller)
-### Connections: Ports
+### Control
+Logics circuit microcontroller
+### Connections
+Ports
 
-## Schematic (image)
-- <img src='./images/TItle-of-pic.png' width='' />
+## Schematic
+- <img src='./images/schematic.PNG' width='120' />
 
 ## (Optional) Connection with other modules/systems
 
