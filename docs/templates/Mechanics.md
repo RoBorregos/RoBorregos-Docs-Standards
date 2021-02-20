@@ -6,7 +6,8 @@
 ### Overview
    * Actual state
       > Description of the final sate the develpment reached.
-    * Functionality
+   
+   * Functionality
       > Description of the intended function of the mechanism.
 
 ### Requirements
