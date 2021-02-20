@@ -18,7 +18,7 @@ Logics circuit microcontroller
 Ports
 
 ## Schematic
-- <img src='./images/schematic.PNG' width='120' />
+<img src='./images/schematic.PNG' width='500' />
 
 ## (Optional) Connection with other modules/systems
 
