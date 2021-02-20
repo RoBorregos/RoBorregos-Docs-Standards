@@ -25,7 +25,7 @@
 	* Cabling routes*
 
 ### Important Mechanism/Piece #n
-> The following information must be provided for every piece of the mechanism
+> The following information must be provided for **every** piece of the mechanism
 *  Overview
 	*  Actual state 
 	*  Functionality
