@@ -1,4 +1,5 @@
-<img src="./images/roborregos_git_logo.png" width="120" /> 
+<img src="./images/roborregos_git_logo.png" width="120" />
+<img src="./images/roborregos_logo.png" width="300" />
 
 # [Name of the proyect] Wiki
 Welcome to this project's wiki! This is the repository of the RoBorregos Robotics Team for the [@Home](https://athome.robocup.org/) competition of the [RoboCup](https://www.robocup.org/).
