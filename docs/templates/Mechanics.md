@@ -1,5 +1,5 @@
 # Mechanics
-#### The 
+ 
 ## Mechanisms
 #### The documentation of every important mechanism designed for a Roboregos proyect must follow this basic structure:
 ###  Title    
@@ -33,7 +33,8 @@
 *  Machining process   
 *  Dimensions
 *  IMAGES
-    <img src='./images/robot.PNG' width='120' />
+
+<img src='./images/robot.PNG' width='120' />
 
 ### Performance
 *  Performance during testing
