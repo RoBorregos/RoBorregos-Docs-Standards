@@ -5,8 +5,10 @@
 ###  Title    
 ### Overview
    * Actual state
+  
       >A description of the final sate the develpment reached.
     * Functionality
+ 
       > Description of the intended function of the mechanism.
 
 ### Requirements
