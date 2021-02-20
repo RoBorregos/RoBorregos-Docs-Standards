@@ -7,13 +7,15 @@
    * Actual state
   
       >A description of the final sate the develpment reached.
+ 
     * Functionality
  
       > Description of the intended function of the mechanism.
 
 ### Requirements
 *  Software used
-	> List of the different software used for the design and testing of the mechanism.
+
+   > List of the different software used for the design and testing of the mechanism.
 
 
 	*	CAD
