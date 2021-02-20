@@ -33,7 +33,8 @@
 *  Machining process   
 *  Dimensions
 *  IMAGES
-    <img src='./images/robot.PNG' width='120' />
+
+<img src='./images/robot.PNG' width='120' />
 
 ### Performance
 *  Performance during testing
