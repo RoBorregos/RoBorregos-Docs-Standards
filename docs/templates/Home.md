@@ -1,5 +1,5 @@
 # [Name of the proyect] Wiki
-Welcome to this project's wiki! This is the repository of the RoBorregos Robotics Team for the competition [@Home](https://athome.robocup.org/) of the [RoboCup](https://www.robocup.org/).
+Welcome to this project's wiki! This is the repository of the RoBorregos Robotics Team for the [@Home](https://athome.robocup.org/) competition of the [RoboCup](https://www.robocup.org/).
 
 ## Requirements
 ### Hardware
