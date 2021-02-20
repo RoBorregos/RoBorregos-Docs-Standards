@@ -1,15 +1,15 @@
-# Mecánica
-
+# Mechanics
+#### The 
 ## Mechanisms
-The documentation of every important mechanism designed for a Roboregos proyect must follow this basic structure:
-### 1.   **Title**    
-### 2.  Overview
+#### The documentation of every important mechanism designed for a Roboregos proyect must follow this basic structure:
+###  Title    
+### Overview
    * Actual state
       >A description of the final sate the develpment reached.
     * Functionality
       > Description of the intended function of the mechanism.
 
-### 3.  Requirements
+### Requirements
 *  Software used
 	> List of the different software used for the design and testing of the mechanism.
 
@@ -17,29 +17,31 @@ The documentation of every important mechanism designed for a Roboregos proyect 
 	*	CAD
 	*	CAE*
 *  Materials used
-### 4.  **Important Mechanism/Piece #1**
 
-*  Overview
-	*  Functionality
-	*  Machining process
-    
-
-*  IMAGES
-    
-*  Dimensions
-*  Pieces
-    
-* Location of electronic components
-	* Sensors/microcontrollers location
+### Electromechanic components
+>The following information must be provided for **every** electromechanic component of the mechanism. 
+* Sensor/Actuator
+	* Location
 	* Cabling routes*
-*  Important details of the design
-*  Additional modifications and improvements
-*  Comments
-	*  Performance during testing
-	*  Performance during competition*
-	*  Suggestions for further improvements
-    
 
-*  References & Support links
+### Important Mechanism/Piece #1
+> The following information must be provided for every piece of the mechanism
+*  Overview
+	*  Actual state 
+	*  Functionality
+* Material description
+*  Machining process   
+*  Dimensions
+*  IMAGES
+    <img src='./images/robot.PNG' width='120' />
 
-
+### Performance
+*  Performance during testing
+*  Performance during competition*
+### Additional modifications and improvements
+* Modifications*
+	>Modifications made during develpment that are not accounted in the CAD model
+*  Suggestions for further improvements
+### References & Support links
+#
+##### * Include only if it applies to the project.
