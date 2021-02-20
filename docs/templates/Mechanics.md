@@ -1,21 +1,17 @@
 # Mechanics
- 
+
 ## Mechanisms
 #### The documentation of every important mechanism designed for a Roboregos proyect must follow this basic structure:
 ###  Title    
 ### Overview
    * Actual state
-  
       >A description of the final sate the develpment reached.
- 
     * Functionality
- 
       > Description of the intended function of the mechanism.
 
 ### Requirements
 *  Software used
-
-   > List of the different software used for the design and testing of the mechanism.
+	> List of the different software used for the design and testing of the mechanism.
 
 
 	*	CAD
@@ -37,8 +33,7 @@
 *  Machining process   
 *  Dimensions
 *  IMAGES
-
-<img src='./images/robot.PNG' width='120' />
+    <img src='./images/robot.PNG' width='120' />
 
 ### Performance
 *  Performance during testing
