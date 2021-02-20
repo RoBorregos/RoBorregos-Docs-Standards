@@ -18,13 +18,13 @@
 	*	CAE*
 *  Materials used
 
-### Electromechanic components
+### Electromechanic component #n
 >The following information must be provided for **every** electromechanic component of the mechanism. 
 * Sensor/Actuator
 	* Location
 	* Cabling routes*
 
-### Important Mechanism/Piece #1
+### Important Mechanism/Piece #n
 > The following information must be provided for every piece of the mechanism
 *  Overview
 	*  Actual state 
