@@ -46,4 +46,4 @@
 *  Suggestions for further improvements
 ### References & Support links
 #
-##### * Include only if it applies to the project.
+##### * Include only if it applies.
